@@ -12,11 +12,13 @@
 ## Criando o primeiro laboratório
 
 Para criar seu laboratório, é necessário ter uma conta no Azure e buscar em *Create a resources* o nome "Azure Machine Learning".
+
 ![Create Resource](./assets/image01.png)
 
 ### Machine Learning
 
 ![Azure Machine Learning - Create](./assets/image02.png)
+
 Após clicar em *Create* no "Azure Machine Learning", você será levado a uma página onde poderá criar seu *Resource Group*.
 
 ![Resource Group](./assets/image03.png)
